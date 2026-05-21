@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="receive_system.console/receive_system.console.csproj" Id="b6b63e4b-9865-4cff-8f2c-ed2d4319746e" />
+  <Project Path="receive_system.core/receive_system.core.csproj" Id="d70b0ecc-f2b8-4d03-bae5-ccc75bb917bb" />
+  <Project Path="receive_system.module/receive_system.module.csproj" Id="70a7b246-9755-4c36-aae4-c2986d620fd6" />
+  <Project Path="receive_system.root/receive_system.root.csproj" Id="c3fa24f9-3a5e-4c4b-b690-671941336659" />
+</Solution>

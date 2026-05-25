@@ -29,3 +29,10 @@ Após receber a solicitação:
 
 ```text
 API -> RabbitMQ -> Consumer -> yt-dlp -> Download do arquivo
+```
+
+---
+
+## 👨‍💻 Author
+
+Project created only for learning purposes.
